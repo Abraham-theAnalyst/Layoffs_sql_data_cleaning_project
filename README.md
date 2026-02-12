@@ -7,21 +7,21 @@ The dataset contained duplicates, null values, inconsistent formats, and unneces
 
 ## Tools used
 . MySQL <br>
-. SQL workbench
+. SQL workbench 
 
 ## Cleaning Steps
-. Removed duplicate records
-. Standardized date formats
-. Handled null values
-. Trimmed Unnecessary spaces
-. Removed irrelevant columns
+. Removed duplicate records <br>
+. Standardized date formats <br>
+. Handled null values <br>
+. Trimmed Unnecessary spaces <br>
+. Removed irrelevant columns 
 
 ## Key SQL concepts used
-. DELETE
-. UPDATE
-. ALTER TABLE
-. CTEs
-. ROW_NUMBER()
+. DELETE <br>
+. UPDATE <br>
+. ALTER TABLE <br>
+. CTEs <br>
+. ROW_NUMBER() <br>
 . PARTITIONS
 
 ## Outcome
