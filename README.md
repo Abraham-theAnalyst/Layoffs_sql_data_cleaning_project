@@ -6,7 +6,7 @@ This project demonstrates data cleaning techniques using SQL.
 The dataset contained duplicates, null values, inconsistent formats, and unnecesary columns.
 
 ## Tools used
-. MySQL
+. MySQL <br>
 . SQL workbench
 
 ## Cleaning Steps
