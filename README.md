@@ -7,25 +7,29 @@ The dataset contained duplicates, null values, inconsistent formats, and unneces
 
 ## Tools used
 <ul>
-  <li>MySQL</li><br>
-  <li>SQL workbench L</li>
+  <li color:"blue">MySQL</li>
+  <li>SQL workbench</li>
 </ul>
 
 
 ## Cleaning Steps
-. Removed duplicate records <br>
-. Standardized date formats <br>
-. Handled null values <br>
-. Trimmed Unnecessary spaces <br>
-. Removed irrelevant columns 
+<ul>
+  <li>Removed duplicate records</li>
+  <li>Standardized date formats</li>
+  <li>Handled null values</li>
+  <li>Trimmed Unnecessary spaces</li>
+  <li>Removed irrelevant columns</li>
+</ul>
 
 ## Key SQL concepts used
-. DELETE <br>
-. UPDATE <br>
-. ALTER TABLE <br>
-. CTEs <br>
-. ROW_NUMBER() <br>
-. PARTITIONS
+<ul>
+  <li>DELETE</li>
+  <li>UPDATE</li>
+  <li>ALTER TABLE</li>
+  <li>CTEs</li>
+  <li>ROW_NUMBER()</li>
+  <li>PARTITIONS</li>
+</ul>
 
 ## Outcome
 The dataset was transformed into a clean, analysis_ready format.
