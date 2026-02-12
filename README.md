@@ -32,5 +32,5 @@ The dataset contained duplicates, null values, inconsistent formats, and unneces
 </ul>
 
 ## Outcome
-The dataset was transformed into a clean, analysis_ready format.
+The dataset was transformed into a clean, analysis-ready format.
 
