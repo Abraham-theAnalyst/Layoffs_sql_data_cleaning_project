@@ -2,12 +2,12 @@
 Data cleaning project using SQL (MySQL)
 
 ## Project Overview
-This project demonstrates data cleaning techniques using SQL.
+This project demonstrates data cleaning techniques using SQL.</br>
 The dataset contained duplicates, null values, inconsistent formats, and unnecesary columns.
 
 ## Tools used
 <ul>
-  <li color:"blue">MySQL</li>
+  <li color:"blue";>MySQL</li>
   <li>SQL workbench</li>
 </ul>
 
